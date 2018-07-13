@@ -1,0 +1,3 @@
+#============= hal_drm_default ==============
+allow hal_drm_default mpdecision:unix_dgram_socket sendto;
+allow hal_drm_default mpdecision_socket:sock_file write;
