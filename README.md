@@ -14,6 +14,6 @@ Display | 5.96"
 Camera  | 13 MP, 2160P@30fps  
 
 
-![Shamu](https://github.com/usmandexter/android_device_moto_shamu/blob/aosp/Nexus_6.png "Shamu")
+![Shamu](https://github.com/usmandexter/android_device_moto_shamu/blob/oreo/Nexus_6.png "Shamu")
 This Branch is for building Pixel Experience for shamu
                                                                        
